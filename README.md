@@ -2,9 +2,9 @@
 [github-badge]: https://img.shields.io/badge/github--blue.svg?style=social&logo=github
 [github-link]: https://github.com/crowds1/
 [facebook-badge]: https://img.shields.io/badge/facebook--blue.svg?style=social&logo=facebook
-[facebook-link]: https://facebook.com//
+[facebook-link]: https://facebook.com/profile.php?id=100010307380744/
 [qiita-badge]: https://img.shields.io/badge/qiita--green.svg?style=social&logo=qiita
-[qiita-link]: https://qiita.com/2357gi/
+[qiita-link]: https://qiita.com/crowds1/
 
 
 
