@@ -14,24 +14,29 @@
 ## 目次
 
 **Table of Contents**
-<!-- START doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
 - [基本情報](#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
 - [スキル](#%E3%82%B9%E3%82%AD%E3%83%AB)
   - [言語](#%E8%A8%80%E8%AA%9E)
+    - [プログラミングについて](#%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+    - [Golang](#golang)
+    - [HTML, JavaScript, CSS](#html-javascript-css)
+    - [node.js](#nodejs)
   - [フレームワーク](#%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF)
-  - [Vue.js](#vuejs)
   - [OS](#os)
+    - [Linux](#linux)
   - [開発ツール・環境](#%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB%E3%83%BB%E7%92%B0%E5%A2%83)
 - [経歴](#%E7%B5%8C%E6%AD%B4)
   - [学歴](#%E5%AD%A6%E6%AD%B4)
-  -[研究歴]
   - [職歴](#%E8%81%B7%E6%AD%B4)
-  - [スキル]
+- [スキル](#%E3%82%B9%E3%82%AD%E3%83%AB-1)
 - [趣味](#%E8%B6%A3%E5%91%B3)
 - [自己PR](#%E8%87%AA%E5%B7%B1pr)
-- [補足](#%E8%A3%9C%E8%B6%B3)
 
-<!-- END doctoc -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## 基本情報
 
 菅井　豪留
