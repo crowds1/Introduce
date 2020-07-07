@@ -1,8 +1,8 @@
 
 [github-badge]: https://img.shields.io/badge/github--blue.svg?style=social&logo=github
-[github-link]: https://github.com/2357gi/
+[github-link]: https://github.com/crowds1/
 [facebook-badge]: https://img.shields.io/badge/facebook--blue.svg?style=social&logo=facebook
-[facebook-link]: https://facebook.com/2357gi/
+[facebook-link]: https://facebook.com//
 [qiita-badge]: https://img.shields.io/badge/qiita--green.svg?style=social&logo=qiita
 [qiita-link]: https://qiita.com/2357gi/
 
@@ -12,8 +12,6 @@
 
 # Introduce
 ## 目次
-
-**Table of Contents**
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -83,7 +81,7 @@ Blockchainの研究をしていた時に、Golangを勉強したもののスマ�
 |名前|期間|備考|
 |:--------|:--------|:--------|
 
----
+
 ### OS
 |名前|期間|備考|
 |:-----------|:-----------|------------:|
@@ -123,7 +121,7 @@ Blockchainの研究をしていた時に、Golangを勉強したもののスマ�
 |年|月|備考|
 |:--------|:--------|:--------|
 
-## スキル
+### スキル
 - TOEIC 730
 - 留学オーストラリア、10か月
 - ウェブライティング経験
